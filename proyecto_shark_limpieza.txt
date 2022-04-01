@@ -1,0 +1,26 @@
+
+1) Crear repo de proyecto ->
+
+- imagenes 
+- notebook (jupyter)
+- src(py)
+- readme.md 
+
+- .gitignore ( 	- *.csv
+		- 
+		-)
+2) Restricciones ->
+
+a) NO se borran columnas
+b) No se borra +20% filas del data
+
+BONUS:
+
+Algo de Análisis - 	¿Que especie es mas mortal?
+			¿Existe sesgo de genero?
+			¿En que periodo (noche/dia) hay mas ataque)
+
+		
+
+
+source: https://www.kaggle.com/datasets/teajay/global-shark-attacks?resource=download
