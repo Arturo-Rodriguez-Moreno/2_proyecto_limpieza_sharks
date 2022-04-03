@@ -4,7 +4,7 @@
 # Proyecto limpieza de datos
 # Introducción:
 
-En este proyecto se pretende realizar una limpieza exhastiva de un datase en formato .csv de ataque de tiburones que está bastante mas sucio de los que se suelen utilizar para un posterior análisis, lo que me permitirá realizar diferentes técnicas (wrangling, cleaning, manipulation).
+En este proyecto se pretende realizar una limpieza exhastiva de un dataset en formato .csv de ataque de tiburones que está bastante mas sucio de los que se suelen utilizar para un posterior análisis, lo que me permitirá realizar diferentes técnicas (wrangling, cleaning, manipulation).
 
 Me podré ciertas condiciones para obligarme a tener que modificar los datos:
 
