@@ -18,7 +18,7 @@ BONUS:
 
 Algo de Análisis - 	¿Que especie es mas mortal?
 			¿Existe sesgo de genero?
-			¿En que periodo (noche/dia) hay mas ataque)
+			¿En que periodo (noche/dia) hay mas ataque?
 
 		
 
